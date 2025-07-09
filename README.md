@@ -1,5 +1,6 @@
 # Flower-Pad
-a custom 6-key marcopad with floral details
+Flowwr Pad is a 6-key macropad featuring 4 mini LEDs and flower-inspired case design!
+
 ![image](https://github.com/user-attachments/assets/7a10d9ae-b2c8-4f33-921e-b1a365efed44)
 
 # Schematic
@@ -17,4 +18,5 @@ a custom 6-key marcopad with floral details
 - 4x SK6812 MINI-E LEDs
 - Seeed XIAO RP2040
 
-When I put together the build, I'm planning to paint it!
+When I put together the build, I'm planning to paint it :D
+I might also come back and completely redesign it in the future since I think now that I'm more familiar with all the software, I can push myself even further!
