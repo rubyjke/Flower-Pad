@@ -1,7 +1,7 @@
 # Flower-Pad
 Flowwr Pad is a 6-key macropad featuring 4 mini LEDs and flower-inspired case design!
 
-![image](https://github.com/user-attachments/assets/7a10d9ae-b2c8-4f33-921e-b1a365efed44)
+![image](https://github.com/user-attachments/assets/7a10d9ae-b2c8-4f33-921e-b1a365efed44 | width= 00)
 
 # Schematic
 ![image](https://github.com/user-attachments/assets/5ffbec36-dbe2-42f8-85de-da5edc5f06a7)
